@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,aACF","file":"main.b364d5a1.chunk.css","sourcesContent":["body {\r\n  background-color: green;\r\n  color: rgb(235, 222, 222);\r\n}\r\n"]}
