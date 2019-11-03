@@ -16,7 +16,7 @@
     "preghpages": "yarn build",
     "ghpages": "gh-pages -d build"
   },
-  "homepage": "./",
+  "homepage": "https://u-hoshi.github.io/1027/",
   "eslintConfig": {
     "extends": "react-app"
   },
