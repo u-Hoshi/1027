@@ -1,6 +1,7 @@
 {
   "name": "firstapp",
   "version": "0.1.0",
+  "homepage": "https://u-hoshi.github.io/1027/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
@@ -16,7 +17,6 @@
     "preghpages": "yarn build",
     "ghpages": "gh-pages -d build"
   },
-  "homepage": "https://u-hoshi.github.io/1027/",
   "eslintConfig": {
     "extends": "react-app"
   },
